@@ -345,13 +345,16 @@ if (screen === "menu") {
 
     {/* КОНТЕНТ */}
     <div
-      style={{
-        position: "relative",
-        zIndex: 2,
-        height: "100%",
-        display: "flex",
-        flexDirection: "column"
-      }}
+  style={{
+    position: "relative",
+    zIndex: 2,
+    width: "100%",
+    maxWidth: "1200px",
+    margin: "0 auto",
+    height: "100%",
+    display: "flex",
+    flexDirection: "column"
+  }}
     >
 
       {step >= steps.length ? (
