@@ -82,7 +82,12 @@
 npm install
 npm run dev
 
-## 🌐 Демо Проект задеплоен на Vercel: https://crow-character-creation.vercel.app/ --- ## 📁 Структура проекта
+---
+
+## 🌐 Демо Проект задеплоен на Vercel: https://crow-character-creation.vercel.app/
+
+---
+## 📁 Структура проекта
 src/
   App.jsx
   main.jsx
