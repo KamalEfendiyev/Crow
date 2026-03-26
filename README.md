@@ -4,9 +4,15 @@
 
 ![menu](images/crow_main_screen.jpg)
 
-![character](images/гифка_адам.gif)
+<p align="center">
+  <img src="images/гифка_адам.gif" width="45%" />
+  <img src="images/гифка_виктор.gif" width="45%" />
+</p>
 
-
+<p align="center">
+  <b>Адам — нестабильность</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Виктор — давление</b>
+</p>
 
 
 Интерактивный прототип системы создания персонажа для сюжетного шутера.
