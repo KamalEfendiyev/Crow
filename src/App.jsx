@@ -3,8 +3,8 @@ import { useState, useEffect } from "react";
 const categories = {
 
   character: [
-  { name: "Адам Кроу", image: "/images/адам.jpg" },
-  { name: "Виктор Кроу", image: "/images/виктор.png" }
+  { name: "Адам Кроу", image: "/images/адам_лицо.jpg" },
+  { name: "Виктор Кроу", image: "/images/вик_лицо.jpg" }
 ],
 
   backstory: [
